@@ -1,2 +1,7 @@
 doc/autodoc.xml
 doc/html
+/buck-out/
+/.buckd/
+/buckaroo/
+.buckconfig.local
+BUCKAROO_DEPS
